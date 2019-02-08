@@ -1,0 +1,15 @@
+.image-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  
+  app-post {
+    margin: 10px;
+  }
+  .color{
+    background-image: linear-gradient(to right top, #8f888b, #a8a0a3, #c2b9bb, #ddd2d4, #f8ecee);    height:665px;
+    width:100%;
+
+  }

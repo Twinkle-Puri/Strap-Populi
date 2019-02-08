@@ -1,0 +1,5 @@
+.color {
+    background-image: linear-gradient(to right top, #8f888b, #a8a0a3, #c2b9bb, #ddd2d4, #f8ecee);height:100%; 
+width:100%; 
+background-attachment: fixed;
+}
